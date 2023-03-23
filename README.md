@@ -21,6 +21,10 @@ This python code is used to migrate your GitHub repository to bitbucket with all
     ### 5). Then select all the checks.
     ### 6). Click Create.
    
+## Code procedure:
+After all inputs were given in code first it will get all the branches from Github account. Then Create all branch in bitbucket that it finds in github repo. Then get file and files data in that perticuler branch and create simplery fiels in newlly created branch.
+Then we will featch all Open PR in that perticular repositry and create similer in new PR for Newly created branch in bitbucket.
+
 ## GitHub Code procedure:
 
 After all the inputs were given code will first fetch all of your branches of the provided repository.
