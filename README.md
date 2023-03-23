@@ -1,11 +1,14 @@
 # Repo_migration
 
-This python code is used to migrate your GitHub repository to bitbucket with all open PR's.
+This python code is used to migrate your GitHub repository to bitbucket with all branches, tags and open PR's.
 
 ## GitHub Requirements:
-  1. Owner Name :- Input the name of the owner of the repository that you want to transfer to bitbucket.
-  2. Repository Name :- Input the repository name that you want to migrate to Bitbucket.
-  3. Token :- Enter your Github token to get access to your private repository.
+  1. Token :- First you have to generate the token from your github account that you need to pass in the code.
+   ## Here are the steps to generate the code
+    1. In the upper-right corner of any page, click your profile photo, then click Settings.
+    ![image](https://user-images.githubusercontent.com/128475997/227165846-515f8b10-5b70-4b7e-b54d-2625201f68ed.png)
+
+
 
 ## Code procedure:
 
