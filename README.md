@@ -35,11 +35,17 @@ Then it is fetching all repo details from that particular bitbucket account.
 
 
 ##Steps to Execute the code
+
  ###1). First install python in your system
+ 
  ###2). Then clone the code from the github repe then open the terminal in the code folder.
+ 
  ###3). Then run a command pip install -r requirements.txt
+ 
  ###4). After that run the code with command python code.py
+ 
  ###5). Then It will ask for the token of github and bitbucket. You have to add the tokens that we have generated in the above steps.
+ 
  ###7). Then it will take time to migrate the repo with all branches, tags and open PR's
 
 #Thank you for visiting the page
